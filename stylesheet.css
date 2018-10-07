@@ -135,3 +135,13 @@ input[type="submit"]:active {
     outline: none;
 }
 
+/* CSS Floats */
+
+#floats {
+    background: #d41;
+}
+
+#floats #container {
+    background: white;
+    padding: 20px;
+}
